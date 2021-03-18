@@ -1,5 +1,5 @@
 # InbaCoin
-A work-in-progress cross-platform digital coin written in Python.
+A work-in-progress cross-platform digital coin written in Python. For testing and learning purposes :)
 
 ## Requirements:
 - Flask==1.1.2
