@@ -1,4 +1,4 @@
-# InbaCoin
+# TestCoin
 A work-in-progress cross-platform digital coin written in Python. For testing and learning purposes :)
 
 ## Requirements:
